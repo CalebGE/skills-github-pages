@@ -10,13 +10,15 @@ Hello, My name is Caleb Grant-Eckhart and this is my professional portfolio. I a
 
 I have always had a love for physics. I've participated in many Science Olympiad events here at UConn, and other schools across the Northeast. I've also more recently gotten into politics, and I now participate in multiple political extracurriculars here at Uconn as well. My current interests / studies include:
 
-• ***Physics***: Astrophysics, Mechanical Physics  
+• ***Physics***: Astrophysics, Mechanical Physics, Computational Physics
 • ***Political Science***: Electoral Politics
 
 Feel free to contact me for more information. Thank you!  
-______________________________________
+
+***
 
 **Contact Information**
 
 Email: cgg23005@uconn.edu  
-Phone Number: (475) 298-0665
+Phone Number: (475) 298-0665  
+Hometown: Milford, CT
