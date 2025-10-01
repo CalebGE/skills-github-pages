@@ -4,4 +4,4 @@ title: Home
 
 Caleb Grant Eckhart
 
-Hello, My name is Caleb Grant-Eckhart and this is my professional portfolio. I am a ***Physics Major*** at UConn, and am also planning to minor in ***Political Science***.
+Hello, My name is Caleb Grant-Eckhart and this is my professional portfolio. I am a ***Physics Major*** at UConn, and am also planning to minor in ***Political Science***. I am currently a sophomore at UConn, and am planning on graduating in Spring 2028. 
